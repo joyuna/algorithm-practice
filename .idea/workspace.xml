@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da970635-2ab7-48d2-afde-ff1571af0f69" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/algorithm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/out/production/algorithm/y2022/m07/D12.class" beforeDir="false" />
-    </list>
+    <list default="true" id="da970635-2ab7-48d2-afde-ff1571af0f69" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +61,7 @@
       <workItem from="1665334959949" duration="653000" />
       <workItem from="1669644350931" duration="3720000" />
       <workItem from="1669702286303" duration="3379000" />
-      <workItem from="1669722954041" duration="7854000" />
+      <workItem from="1669722954041" duration="8241000" />
     </task>
     <servers />
   </component>
