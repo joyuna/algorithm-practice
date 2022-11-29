@@ -24,7 +24,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FuHHB9GBGc7KSk4R6ZRu2JV0rA" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -62,6 +62,7 @@
       <workItem from="1669644350931" duration="3720000" />
       <workItem from="1669702286303" duration="3379000" />
       <workItem from="1669722954041" duration="8241000" />
+      <workItem from="1669745438874" duration="38000" />
     </task>
     <servers />
   </component>
