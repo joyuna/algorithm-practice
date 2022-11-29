@@ -5,8 +5,6 @@
  * 입력: 첫째 줄에 시험 점수가 주어진다. 시험 점수는 0보다 크거나 같고, 100보다 작거나 같은 정수이다.
  * 출력: 시험 성적을 출력한다.
  */
-package y2022.m07;
-
 import java.util.Scanner;
 
 public class D12 {
