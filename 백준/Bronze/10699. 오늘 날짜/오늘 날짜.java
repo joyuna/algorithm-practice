@@ -8,9 +8,6 @@
    다음은 채점 서버에서 KST 시간으로 2018년 3월 21일 오후 2시 7분 38초에 date 명령어를 실행시킨 결과이다.
    Wed Mar 21 05:07:38 UTC 2018
  */
-
-package y2022.m11;
-
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 
