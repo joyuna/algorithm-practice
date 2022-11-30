@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da970635-2ab7-48d2-afde-ff1571af0f69" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/백준/Bronze/10699. 오늘 날짜/오늘 날짜.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Bronze/10699. 오늘 날짜/오늘 날짜.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/Bronze/2557. Hello World/Hello World.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Bronze/2557. Hello World/Hello World.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/Bronze/9498. 시험 성적/시험 성적.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Bronze/9498. 시험 성적/시험 성적.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,16 @@
       <recent name="$PROJECT_DIR$/백준/Bronze" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="algorithm-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +75,8 @@
       <workItem from="1669644350931" duration="3720000" />
       <workItem from="1669702286303" duration="3379000" />
       <workItem from="1669722954041" duration="8241000" />
-      <workItem from="1669745438874" duration="783000" />
+      <workItem from="1669745438874" duration="2652000" />
+      <workItem from="1669780955479" duration="2712000" />
     </task>
     <servers />
   </component>
