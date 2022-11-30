@@ -13,5 +13,7 @@
  - 30일 [백준 1000번 A+B](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB) 💬
  - 30일 [백준 1001번 A-B](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1001.%E2%80%85A%EF%BC%8DB) 💬
  - 30일 [백준 10998번 AxB](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10998.%E2%80%85A%C3%97B) 💬
+ - 30일 [백준 10869번 사칙연산](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10869.%E2%80%85%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
+ - 30일 [백준 1008번 A/B](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1008.%E2%80%85A%EF%BC%8FB)
 
 
