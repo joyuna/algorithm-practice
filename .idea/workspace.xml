@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="da970635-2ab7-48d2-afde-ff1571af0f69" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/Bronze/10171. 고양이/고양이.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Bronze/10171. 고양이/고양이.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Bronze/1000. A＋B/A＋B.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Bronze/1000. A＋B/A＋B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Bronze/1001. A－B/A－B.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Bronze/1001. A－B/A－B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/Bronze/10998. A×B/A×B.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/Bronze/10998. A×B/A×B.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +79,7 @@
       <workItem from="1669702286303" duration="3379000" />
       <workItem from="1669722954041" duration="8241000" />
       <workItem from="1669745438874" duration="2652000" />
-      <workItem from="1669780955479" duration="4942000" />
+      <workItem from="1669780955479" duration="7404000" />
     </task>
     <servers />
   </component>
