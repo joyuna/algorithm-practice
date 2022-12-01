@@ -3,8 +3,6 @@
 
 ## 목차
 
--- --
-
 ### 🌱 2022.07
  - 12일 [백준 9498번 시험 성적](https://github.com/joyuna/algorithm-study/blob/main/%EB%B0%B1%EC%A4%80/Bronze/9498.%20%EC%8B%9C%ED%97%98%20%EC%84%B1%EC%A0%81/%EC%8B%9C%ED%97%98%20%EC%84%B1%EC%A0%81.java)
 
@@ -23,4 +21,4 @@
 
 ### 🌱 2022.12
  - 01일 [백준 11382번 꼬마 정민](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11382.%E2%80%85%EA%BC%AC%EB%A7%88%E2%80%85%EC%A0%95%EB%AF%BC)
- - 
+ - 01일 [백준 1330번 두 수 비교하기](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1330.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
