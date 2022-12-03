@@ -25,4 +25,5 @@ public class Main {
     }
 }
 
-    
+// System.out.println("시험 점수를 입력하세요.");
+// 이런 문구가 들어가면 백준 채점에서 탈락함 ..ㅎ
