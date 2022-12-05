@@ -24,3 +24,4 @@
  - 03일 [백준 9498번 시험 성적](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/9498.%E2%80%85%EC%8B%9C%ED%97%98%E2%80%85%EC%84%B1%EC%A0%81) 💬
  - 03일 [백준 2420번 사파리월드](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2420.%E2%80%85%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%9B%94%EB%93%9C) 💬
  - 04일 [백준 2741번 N 찍기](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2741.%E2%80%85N%E2%80%85%EC%B0%8D%EA%B8%B0)
+ - 05일 [백준 10872번 팩토리얼](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10872.%E2%80%85%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC)
