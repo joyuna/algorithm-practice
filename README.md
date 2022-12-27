@@ -41,3 +41,4 @@
  - 22일 [백준 2754번 학점계산](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2754.%E2%80%85%ED%95%99%EC%A0%90%EA%B3%84%EC%82%B0)
  - 24일 [백준 10809번 알파벳 찾기](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10809.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EC%B0%BE%EA%B8%B0) 💬
  - 26일 [백준 11718번 그대로 출력하기](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11718.%E2%80%85%EA%B7%B8%EB%8C%80%EB%A1%9C%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+ - 27일 [백준 9086번 문자열](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/9086.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4)
