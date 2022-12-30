@@ -17,3 +17,9 @@ public class Main {
         br.close();
     }
 }
+
+/*
+java.lang.Math클래스의 pow() 메소드 활용
+
+=> Math.pow(밑, 지수)
+ */
