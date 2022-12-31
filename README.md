@@ -43,4 +43,5 @@
  - 26일 [백준 11718번 그대로 출력하기](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11718.%E2%80%85%EA%B7%B8%EB%8C%80%EB%A1%9C%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
  - 27일 [백준 9086번 문자열](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/9086.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4)
  - 29일 [백준 15964번 이상한 기호](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/15964.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EA%B8%B0%ED%98%B8)
- - 30일 [백준 2475번 검증수](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2475.%E2%80%85%EA%B2%80%EC%A6%9D%EC%88%98)
+ - 30일 [백준 2475번 검증수](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2475.%E2%80%85%EA%B2%80%EC%A6%9D%EC%88%98) 💬
+ - 31일 [백준 11720번 숫자의 합](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11720.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9)
