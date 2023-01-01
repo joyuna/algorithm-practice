@@ -1,7 +1,7 @@
 # algorithm-study
 
 
-## 목차
+### 목차
 <details><summary>2022년</summary>
 
 <a href="#2022.11">11월</a> <br>
@@ -13,6 +13,7 @@
 <a href="#2023.01">01월</a> <br>
 </details>
 
+---
 ### 🌱 <a id="2022.11">2022.11</a>
  - 28일 [백준 2557번 Hello World](https://github.com/joyuna/algorithm-study/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2557.%20Hello%20World/Hello%20World.java)
  - 28일 [백준 10699번 오늘 날짜](https://github.com/joyuna/algorithm-study/blob/main/%EB%B0%B1%EC%A4%80/Bronze/10699.%20%EC%98%A4%EB%8A%98%20%EB%82%A0%EC%A7%9C/%EC%98%A4%EB%8A%98%20%EB%82%A0%EC%A7%9C.java) 💬
