@@ -2,8 +2,18 @@
 
 
 ## 목차
+<details><summary>2022년</summary>
 
-### 🌱 2022.11
+<a href="#2022.11">11월</a> <br>
+<a href="#2022.12">12월</a> <br>
+</details>
+
+<details><summary>2023년</summary>
+
+<a href="#2023.01">01월</a> <br>
+</details>
+
+### 🌱 <a id="2022.11">2022.11</a>
  - 28일 [백준 2557번 Hello World](https://github.com/joyuna/algorithm-study/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2557.%20Hello%20World/Hello%20World.java)
  - 28일 [백준 10699번 오늘 날짜](https://github.com/joyuna/algorithm-study/blob/main/%EB%B0%B1%EC%A4%80/Bronze/10699.%20%EC%98%A4%EB%8A%98%20%EB%82%A0%EC%A7%9C/%EC%98%A4%EB%8A%98%20%EB%82%A0%EC%A7%9C.java) 💬
  - 29일 [백준 7287번 등록](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/7287.%E2%80%85%EB%93%B1%EB%A1%9D)
@@ -16,7 +26,7 @@
  - 30일 [백준 10869번 사칙연산](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10869.%E2%80%85%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
  - 30일 [백준 1008번 A / B](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1008.%E2%80%85A%EF%BC%8FB)
 
-### 🌱 2022.12
+### 🌱 <a id="2022.12">2022.12</a>
  - 01일 [백준 11382번 꼬마 정민](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11382.%E2%80%85%EA%BC%AC%EB%A7%88%E2%80%85%EC%A0%95%EB%AF%BC)
  - 01일 [백준 1330번 두 수 비교하기](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1330.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0) 💬
  - 01일 [백준 14681번 사분면 고르기](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/14681.%E2%80%85%EC%82%AC%EB%B6%84%EB%A9%B4%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0)
@@ -45,3 +55,6 @@
  - 29일 [백준 15964번 이상한 기호](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/15964.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EA%B8%B0%ED%98%B8)
  - 30일 [백준 2475번 검증수](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2475.%E2%80%85%EA%B2%80%EC%A6%9D%EC%88%98) 💬
  - 31일 [백준 11720번 숫자의 합](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11720.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9)
+
+### 🌱 <a id="2023.01">2023.01</a>
+- 01일 [백준 2562번 최댓값](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2562.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92)
