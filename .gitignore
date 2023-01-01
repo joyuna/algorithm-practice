@@ -208,3 +208,11 @@ temp/
 Debug/
 Release/
 html-exam/
+
+# IntelliJ project files
+.idea
+.idea/*.xml
+*.iml
+out
+gen
+rebel.xml
