@@ -59,3 +59,4 @@
 
 ### 🌱 <a id="2023.01">2023.01</a>
 - 01일 [백준 2562번 최댓값](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2562.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92)
+- 02일 [백준 10818번 최소, 최대](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10818.%E2%80%85%EC%B5%9C%EC%86%8C%EF%BC%8C%E2%80%85%EC%B5%9C%EB%8C%80)
