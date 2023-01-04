@@ -22,11 +22,9 @@ public class Main {
         }
         if(ascending == 8) {
             bw.write("ascending");
-        }
-        else if(descending == 8) {
+        } else if(descending == 8) {
             bw.write("descending");
-        }
-        else {
+        } else {
             bw.write("mixed");
         }
         br.close();
