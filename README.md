@@ -64,12 +64,13 @@
 | 31일 | [백준 11720번 숫자의 합](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11720.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9)                                                                     |
 
 ### 🌱 <a id="2023.01">2023.01</a>
-| Day | Problem                                                                                                                                                                 | Etc |
-|:---:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|
-| 01일 | [백준 2562번 최댓값](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2562.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92)                                 |
-| 02일 | [백준 10818번 최소, 최대](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10818.%E2%80%85%EC%B5%9C%EC%86%8C%EF%BC%8C%E2%80%85%EC%B5%9C%EB%8C%80) |
-| 03일 | [백준 2675번 문자열 반복](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2675.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B0%98%EB%B3%B5)   |
-| 04일 | [백준 2920번 음계](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2920.%E2%80%85%EC%9D%8C%EA%B3%84)                                           |
-| 05일 | [백준 8958번 OX퀴즈](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/8958.%E2%80%85OX%ED%80%B4%EC%A6%88)                                       |
-| 06일 | [백준 1546번 평균](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1546.%E2%80%85%ED%8F%89%EA%B7%A0)                                           |
+| Day | Problem                                                                                                                                                                           | Etc |
+|:---:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|
+| 01일 | [백준 2562번 최댓값](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2562.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92)                                           |
+| 02일 | [백준 10818번 최소, 최대](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10818.%E2%80%85%EC%B5%9C%EC%86%8C%EF%BC%8C%E2%80%85%EC%B5%9C%EB%8C%80)           |
+| 03일 | [백준 2675번 문자열 반복](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2675.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B0%98%EB%B3%B5)             |
+| 04일 | [백준 2920번 음계](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2920.%E2%80%85%EC%9D%8C%EA%B3%84)                                                     |
+| 05일 | [백준 8958번 OX퀴즈](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/8958.%E2%80%85OX%ED%80%B4%EC%A6%88)                                                 |
+| 06일 | [백준 1546번 평균](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1546.%E2%80%85%ED%8F%89%EA%B7%A0)                                                     |
+| 07일 | [백준 2439번 별 찍기 - 2](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2439.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%852) |
 
