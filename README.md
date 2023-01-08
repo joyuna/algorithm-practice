@@ -75,4 +75,5 @@
 | 07일 | [백준 2439번 별 찍기 - 2](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2439.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%852) |
 | 07일 | [백준 2742번 기찍 N](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2742.%E2%80%85%EA%B8%B0%EC%B0%8D%E2%80%85N)                                         |
 | 07일 | [백준 2884번 알람 시계](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2884.%E2%80%85%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84)                       |
+| 08일 | [백준 1152번 단어의 개수](https://github.com/joyuna/algorithm-study/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1152.%E2%80%85%EB%8B%A8%EC%96%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)             |
 
