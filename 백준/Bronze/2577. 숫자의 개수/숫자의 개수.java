@@ -4,12 +4,12 @@ import java.io.InputStreamReader;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); // 선언
-        int A = Integer.parseInt(br.readLine());  // 자연수 A, B, C를 입력 받는다.
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int A = Integer.parseInt(br.readLine());
         int B = Integer.parseInt(br.readLine());
         int C = Integer.parseInt(br.readLine());
 
-        int ABC = A * B * C; // A * B * C // 숫자 하나씩 분류해서 각 숫자의 갯수를 센다.
+        int ABC = A * B * C; .
         String str = Integer.toString(ABC);
 
         int[] arr = new int[10];
