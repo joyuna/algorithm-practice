@@ -1,10 +1,10 @@
 class Solution {
     public String solution(int age) {
         String answer = "";
-        String[] arr = String.valueOf(age).split("");
+        char[] arr = String.valueOf(age).toCharArray();
 
         for(int i = 0; i < arr.length; i++) {
-            answer += (char)(Integer.valueOf(arr[i]) + 97);
+            answer += (char)(arr[i] + '1');
         }
         return answer;
     }
