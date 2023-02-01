@@ -13,6 +13,7 @@
 <details><summary>2023년</summary>
 
 <a href="#2023.01">01월</a> <br>
+<a href="#2023.02">02월</a> <br>
 </details>
 <br>
 
@@ -114,3 +115,8 @@
 | 31일 | [프로그래머스 120829번 각도기](https://github.com/joyuna/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120829.%E2%80%85%EA%B0%81%EB%8F%84%EA%B8%B0)                                                                                   |
 | 31일 | [프로그래머스 120830번 양꼬치](https://github.com/joyuna/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120830.%E2%80%85%EC%96%91%EA%BC%AC%EC%B9%98)                                                                                   |
 | 31일 | [프로그래머스 120831번 짝수의 합](https://github.com/joyuna/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120831.%E2%80%85%EC%A7%9D%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9)                                                               |
+
+### 🌱 <a id="2023.02">2023.02</a>
+| Day | Problem                                                                                                                                                                                                            | Etc |
+|:---:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---:|
+| 01일 | [프로그래머스 120833번 배열 자르기](https://github.com/joyuna/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120833.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0)  |
