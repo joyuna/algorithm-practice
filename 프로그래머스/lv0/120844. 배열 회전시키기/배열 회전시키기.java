@@ -8,8 +8,7 @@ class Solution {
             for(int i = 1; i < numbers.length; i++) {
                 answer[i] = numbers[i - 1];
                 }
-            }
-        else if(direction.equals("left")) {
+            } else if(direction.equals("left")) {
             answer[answer.length - 1] = numbers[0];
             for(int i = 0; i < numbers.length - 1; i++) {
                 answer[i] = numbers[i + 1];
