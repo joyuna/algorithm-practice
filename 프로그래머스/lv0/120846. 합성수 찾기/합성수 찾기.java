@@ -6,11 +6,10 @@
                 for(int j = 1; j <= i; j++) {
                     if(i % j == 0) {
                         count++;
-                        if(count >= 3) {
-                            answer++;
-                            break;
-                        }
                     }
+                }
+                if(count >= 3) {
+                    answer++;
                 }
             }
             return answer;
