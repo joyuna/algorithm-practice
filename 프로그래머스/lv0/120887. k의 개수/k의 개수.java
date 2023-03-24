@@ -1,7 +1,7 @@
 class Solution {
     public int solution(int i, int j, int k) {
         int answer = 0;
-        String str = null;
+        String str = "";
         for(int l = i; i <= j; i++) {
             str += String.valueOf(i);
         }
