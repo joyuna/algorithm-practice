@@ -11,8 +11,6 @@ class Solution {
             Arrays.sort(dicValueArr);
             if(Arrays.equals(spell, dicValueArr)) {
                 answer = 1;
-            } else {
-                continue;
             }
         } 
         answer = answer != 0 ? 1 : 2;
