@@ -6,11 +6,13 @@ class Solution {
         Arrays.sort(spell);
         
         for(int i = 0 ;i < dic.length; i++) {
-            String dicValue = dic[i];
-            String[] dicValueArr = dicValue.split("");
-            Arrays.sort(dicValueArr);
-            if(Arrays.equals(spell, dicValueArr)) {
-                answer = 1;
+            if(spell.length == dic[i].length()) {
+                String dicValue = dic[i];
+                String[] dicValueArr = dicValue.split("");
+                Arrays.sort(dicValueArr);
+                if(Arrays.equals(spell, dicValueArr)) {
+                    answer = 1;
+                }
             }
         } 
         answer = answer != 0 ? 1 : 2;
